@@ -1,6 +1,6 @@
 # hw6
 ## Домашнее задание 6, группа *БИЯ1712*
-### Часть 1. Google Ngram Viewer
+## Часть 1. Google Ngram Viewer
 ### Задание 1:
 ![](https://pp.userapi.com/c845216/v845216822/2197e/VTTKlW67NuI.jpg)
 ### Задание 2:
@@ -10,3 +10,12 @@
 ### Задание 3:
 ![](https://pp.userapi.com/c845216/v845216822/2196b/lfFTnUPhM-Y.jpg)
 * Полный запрос: film_NOUN:eng_us_2012,film_NOUN:eng_gb_2012,movie_NOUN:eng_gb_2012,movie_NOUN:eng_us_2012
+## Часть 2.Sketch Engine
+#### Задание 1:
+##### Три самых частотных модификатора (modifiers) существительного question:
+![](https://pp.userapi.com/c845216/v845216822/21962/EuIPRA-KUYc.jpg)
+![](https://pp.userapi.com/c845216/v845216822/2195b/vUlvfN4_66Q.jpg)
+#### Задание 2:
+![](https://pp.userapi.com/c845216/v845216822/21954/iOddUvzSdCU.jpg)
+* Как синонимычные глаголы были взяты "borrow" и "land":
+
