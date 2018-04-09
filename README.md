@@ -17,5 +17,5 @@
 ![](https://pp.userapi.com/c845216/v845216822/2195b/vUlvfN4_66Q.jpg)
 #### Задание 2:
 ![](https://pp.userapi.com/c845216/v845216822/21954/iOddUvzSdCU.jpg)
-* Как синонимычные глаголы были взяты "borrow" и "land":
-
+* Как синонимычные глаголы были взяты "borrow" и "lend":
+* Только с глаголом "borrow" могут употребляться дополнения "phrase","pencil"; только с глаголом "lend" - "dollar", "billion"; с обоими глаголами - "fund", "money", "sum"
